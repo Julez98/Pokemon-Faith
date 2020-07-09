@@ -1,0 +1,158 @@
+ASM Offsets 
+
+General ASM:
+
+257510 - Entry Hazards
+
+908000 - F8 Call ASM Battle Script Command
+
+908040 - MSG Box Battle Script Command
+
+908250 - Miracle Eye Part 1
+90BC70 - Miracle Eye Part 2
+
+908400 - Set Second Command Table
+
+908430 - Brine
+
+908470 - Roost 1
+90A0D0 - Roost 2
+
+9085A4 - Jump Kick Crash
+
+9084B0 - Sucker Punch I
+909A30 - Sucker Punch II
+
+909AA0 - Set Ability (Worry Seed, etc.)
+
+908B00 - Set word
+
+909800 - 1.5x Damage BS Cmd
+909818 - 0.5x Damage BS Cmd
+
+909830 - Brine ASM
+
+909C20 - Second Command Table
+
+90A170 - Stored Power
+
+90A1F0 - Acupressure 1
+90A224 - Acupressure 2
+90A280 - Acupressure 3
+
+90A2D0 - Assurance
+90A310 - Punishment
+90A490 - Incinerate
+
+90BA30 - Set Halver Marker
+90BA70 - Set Healing Wish
+90BAD9 - Set Lunar Dance
+90BBA9 - Clear Halver Marker
+
+90C080 - CounterDecrement
+90C0B8 - CounterLocations
+
+Abilities:
+
+3F2C0  - Adaptability
+
+9080A0 - Technician and Multiscale
+
+908200 - Scrappy
+
+9082C0 - Super Luck
+
+908320 - Prankster
+90C290 - Prankster 2
+
+908534 - Regenerator
+
+9085D0 - Big Pecks
+
+908690 - Magic Bounce
+
+908720 - Reckless Table
+908738 - Iron Fist Table
+908758 - Sheer Force Table
+908844 - Mega Launcher Table
+908850 - Strong Jaw Table
+
+908860 - Victory Star
+
+909DD0 - Ability List (Iron Fist etc.)
+
+908A40 - Sheer Force II
+
+908AA0 - Tinted Lens, Filter+Solidrock
+
+908B60 - Download
+908C30 - Check and Set 
+908D20 - Ability Check for a butt ton of abilities
+908DA0 - Turboblaze
+908DD0 - Teravolt
+908E00 - Mold Breaker
+?????? - Unknown Ability (Anticipation?)
+?????? - Unknown Ability (Forewarn?)
+
+908EC0 - Poison Heal
+9080F0 - Poison Heal II
+
+908F04 - Overcoat and Magic Guard I
+
+908F60 - Moody
+
+9094A0 - Hydration and Healer
+
+909620 - Poison Heal III, Ice Body
+909768 - Ice Body II, Snow Cloak
+
+909798 - Snow Cloak II, Tangled Feet
+
+908960 - Dry Skin, Solar Power
+
+909990 - Snow Warning
+909AD0 - Snow Warning BS
+
+90A380 - Storm Drain I
+
+909B10 - Quick Feet
+
+90C100 - Drive, Sap Sipper
+
+90C250 - Overcoat II, Bulletproof
+
+9083A4 - Infiltrator I
+90C320 - Infiltrator II and Sound Moves
+90C3A0 - Infiltrator III
+
+90C431 - Heatproof II
+
+90C770 - New Contact Abilities (generally borken)
+90C500 - Table for selecting abilities (works 100%)
+90BBEC - Aftermath (works 100%)
+90C5A0 - Cursed Body (works 100%)
+90C6A0 - Gooey (works 100%)
+90CB70 - Mummy
+
+90C8E0 - Analytic
+
+90C960 - No Guard
+
+90CAA0 - Sand Rush
+
+90CC90 - Aura and Type Change Abilities
+
+Items:
+
+90BCF0 - Black Sludge
+
+90BE10 - Updated Light Ball
+
+90C4C1 - Choice Band, Specs, Scarf
+
+90C850 - Assault Vest I, Eviolite I
+90C9C0 - Eviolite II
+90C9FC - Assault Vest II
+90CB30 - Assault Vest III
+
+90CA64 - Choice Scarf

@@ -1,0 +1,422 @@
+----------------------------------------------------------------------
+DATA STUFF
+----------------------------------------------------------------------
+Evolution Table:			0x720000
+Dr Fuji Event Rewrite:			0x7440B0
+Rt 5 Day Care Event Rewrite:		0x744420
+Ultimate Move Tutor Repoint:		0x7438F0
+Item Test Script:			0x745300
+Sound Based Moves:			0x746470
+OW Sprites:				0x750000-0x7C97C0
+
+----------------------------------------------------------------------
+ASM And C Work:
+----------------------------------------------------------------------
+Colored Nature Stats:			0x742BB0-743200
+-Attack					0x742BB0
+-Defense				0x742CD0
+-Special Attack				0x742DF0
+-Special Defense			0x742F10
+-Speed					0x743020
+-Color Reversion			0x7431A0
+
+1 HP Poison Survival:			0x743290
+BW Repel System:			0x743200
+
+Navenatox Dynamic OW Pals:		0x740000
+
+Mega Evolutions:			0x7414C0
+-Image 1				0x740DC0, 0x740EDC
+-Image 2				0x740F00, 0x74137C
+-Image 3				0x7413A0, 0x741490
+
+Emerald Style Pickup: 			0x747B40
+
+Badge Based Pokemarts:			0x740AA0
+
+Unhidden Power:				0x740CF0
+
+Critical Hit Nerf1:			0x7432E0
+Critical Hit Nerf2:			0x743300
+
+Sturdy Update:				0x71AAC0
+
+Ultimate Move Tutors:			0x743810, 0x743880
+
+Flame Body/Magma Armor Field:		0x743330
+Synchronise Field:			0x7433A0
+
+Volt Tackle Breeding:			0x7434D0
+
+Game Freak PRESENTS:			0x743440
+
+Player Facing Fix:			0x743D10
+-Script:				0x743D60
+
+Sitrus Berry Update:			0x738910, 0x738930
+
+Pokedex Stats:				0x743620
+
+JPAN Save Block Hack:			0x743DF0
+Bag Expansion:				0x747D00
+JPAN Bug Fix by Sagiri:			0x743F00
+
+Sagiri's Hall of Fame Fix:		0x747F50
+
+Parental Bond No Effect Table:		0x71B960
+Parental Bond Routine 1:		0x71B9C0
+Parental Bond Routine 2:		0x71B610
+Parental Bond Routine 3:		0x71BAC0
+Parental Bond Routine 4:		0x71BB00
+Parental Bond Routine 5:		0x71B7B0
+Fluffy/Shadow Shield/Fur Coat:		0x71B080
+Defiant/Competitive:			0x71B150
+Unburden:				0x71B1F0
+Protean:				0x71B220
+Wonder Skin:				0x71B2C0
+Steadfast script:			0x744FD0
+Tangling Hair Script:			0x745030
+Tangling Hair String:			0x745080
+Tangling Hair ASM:			0x7450B0
+Unaware 1:				0x747900
+Unaware 2:				0x747930
+Unaware 3:				0x747970
+
+
+Battle End of Turn Routine:		0x71B540
+New Item Table 1:			0x71B520
+TTTTTT Table 2:				0x71B5B0
+Rocky Helmet:				0x71B350
+Weakness Policy:			0x71B4A0
+Weakness Policy Script:			0x71B430
+Wide Lens Item Effect (0x4C):		0x738850
+Power Items Item Effect (0x18):		0x7388A0
+Damage Reduction Berries 1:		0x738960
+Damage Reduction Berries 2:		0x738A00
+
+----------------------------------------------------------------------
+DNS (Prime Dialga Version):		
+----------------------------------------------------------------------
+RTC-					0x746500
+DNS-					0x7468E0
+
+----------------------------------------------------------------------
+DNS (Shiny Quagsire Version):
+----------------------------------------------------------------------
+Navenatox Pal Fix:			0x747100
+RTC:					0x747150
+Part 1:					0x746500
+Part 2:					0x746B80
+
+----------------------------------------------------------------------
+MrDS Bug Fixes:
+----------------------------------------------------------------------
+Type Chart Fix:				0x71BBF0		
+
+Solid Rock, Filter, Tinted Lens, Belt:	0x71A900, 0x71A9C0
+Hydration:				0x71AA90
+
+Orb table repoint:     			0x71E770
+Orb routine XXXXXX:    			0x71E800
+Orb routine ZZZZZZ:    			0x71EA00
+battle script PPPPPP:  			0x71E850
+routine WWWWWW:        			0x71E8C0
+string SSSSSS:         			0x71E880
+battle script MMMMMM:  			0x71E930
+routine VVVVVV:        			0x71E960
+string RRRRRR:         			0x71E9D0
+battle script EEEEEE:  			0x71E7E0
+Cureprimarystatus-              	0x71A270
+Wake-up Slap string DDDDDD:     	0x71A310
+Wake-up Slap Effect:			0x71A320
+Incinerate string DDDDDD:       	0x71A250
+
+Growth Move Effect 218:			0x71A4D0
+Foul Play ASM:				0x71A3F0
+Foul Play Move Effect 219:		0x71A460
+Assurance ASM:				0x71A3A0
+Assurance Move Effect 220:		0x71A3E0	
+Trapping Move Effect 106:		0x71A760
+Paralysis Move Effect 6:		0x71A770
+Electric Type Check Effect 152:		0x71A780	
+Grass Type Check Move Effect 67:	0x71A800
+Grass Type Check Move Effect 66:	0x71A830
+Grass Type Check Move Effect 01:	0x747640
+Roost ASM:				0x71A5F0
+Roost Move Effect 32:			0x71A630
+Roost 2 ASM:				0x71A6B0
+Volt Switch/U-Turn Jumpifbattleover:    0x743FC0
+Scrappy Brick Break Fix ASM:		0x71AB10
+Updated Volt Tackle Effect 225:		0x71A7A0
+Circle Throw/Dragon Tail 231:		0x71EAC0
+Pluck/Bug Bite Effect 227:		0x71E000
+Jumpifsubstituteblocks:			0x747800
+Effect 18 Repoint:			0x7476C0
+Effect 49 Repoint:			0x747710
+Effect 59 Repoint:			0x747760
+Effect 62 Repoint:			0x7477B0
+
+Life Orb ASM 1:				0x71B6C0
+Life Orb ASM 2:				0x71B820
+Life Orb ASM 3:				0x71B920
+Black Sludge ASM:			0x71ABB0
+Black Sludge Battle Script:		0x71AB70
+Assault Vest Text Fix:			0x71AC40
+
+Magic Bounce 1:				0x71ACE0
+Magic Bounce 2:				0x71ADA0
+Magic Bounce 3:				0x71ADD0
+Mummy Battle Script:			0x744F90
+Mummy Text:				0x744F70
+Gooey Script:				0x745130
+Galvanize+ Ate/Ize Abilities 1:		0x745180
+Galvanize+ Ate/Ize Abilities 2:		0x745270
+
+LeechSeedMagicGuard:			0x747A00
+CurseMagicGuard:			0x747A40
+NightmareMagicGuard:			0x747A60
+TrappingDamageMagicGuard:		0x747A80
+Mist + Infiltrator:			0x747AA0
+Safeguard + Infiltrator:		0x747AF0
+
+----------------------------------------------------------------------
+New Moves
+----------------------------------------------------------------------
+Descriptions:
+---------------
+Petal Storm				0x7449E0
+Feint					0x744A20
+Nuzzle					0x744A60
+Power Trip				0x744AA0
+HiHorsepower				0x744AE0
+Stomping Tantrum			0x744B20
+Dragon Rush				0x71EC40
+Sacred Sword				0x744BC0
+Foul Play				0x7448C0
+Power Up Punch				0x744910
+Liquidation				0x744940
+Mystical Fire				0x744990
+
+----------------
+Animations
+----------------
+Nuzzle					0x744D80
+Dragon Rush				0x744E30
+Power Up Punch				0x744C10
+Liquidation				0x744C70
+Mystical Fire				0x744CC0
+Flash Cannon				0x71BB40
+Sacred Sword				0x71ED30
+
+----------------------------------------------------------------------
+New Items
+----------------------------------------------------------------------
+Descriptions:
+---------------
+Sitrus Berry				0x738800
+Light Ball				0x71A890
+Big Nugget				0x738B00
+Mega Ring				0x738B60
+Expert Belt				0x738BB0
+Wide Lens				0x738C00
+Weakness Policy				0x738C70
+Flame Orb				0x738CD0
+Toxic Orb				0x738D40
+Power Weight				0x738DB0
+Power Bracer				0x738E10
+Power Belt				0x738E80
+Power Anklet				0x738EF0
+Power Lens				0x738F60
+Power Band				0x738FD0
+Shiny Stone				0x739040
+Dusk Stone				0x7390B0
+Dawn Stone				0x739110
+Ice Stone				0x739180
+Link Cable				0x7391F0
+Oval Stone				0x739240
+Protector				0x7392B0
+Electirizer				0x739320
+Magmarizer				0x739380
+Dubious Disc				0x7393E0
+Reaper Cloth				0x739430
+Razor Claw				0x739490
+Razor Fang				0x739500
+Prism Scale				0x739570
+Whipped Dream				0x7395C0
+Sachet					0x739630
+Venusaurite				0x7396A0
+Charizardite X				0x7396E0
+Charizardite Y				0x7396E0
+Blastoisinite				0x739720
+Alakazite				0x7397E0
+Gengarite				0x739860
+Kangaskhanite				0x7398A0
+Pinsirite				0x7398E0
+Gyaradosite				0x739920
+Aerodactlite				0x739960
+Mewtwonite X				0x7399A0
+Mewtwonite Y				0x7399A0
+Ampharosite				0x7399E0
+Scizorite				0x739A20
+Heracronite				0x739AA0
+Houndoomnite				0x739AE0
+Tyranitarite				0x739B20
+Blazikenite				0x739BA0
+Gardevoirite				0x739C20
+Mawilite				0x739CA0
+Aggronite				0x739CE0
+Medichamite				0x739D20
+Manectite				0x739D60
+Banettite				0x739DA0
+Absolite				0x739DE0
+Garchompite				0x73A060
+Lucarionite				0x73A0A0
+Abomasite				0x73A0E0
+Beedrillite				0x739760
+Pidgeotite				0x7397A0
+Slowbronite				0x739820
+Steelixite				0x739A60
+Sceptilite				0x739B60
+Swampertite				0x739BE0
+Sablenite				0x739C60
+Sharpedonite				0x739E20
+Cameruptite				0x739E60
+Altarianite				0x739EA0
+Glalite					0x739EE0
+Salamencite				0x739F20
+Metagrossite				0x739F60
+Latiasite				0x739FA0
+Latiosite				0x739FE0
+Lopunnite				0x73A020
+Galladite				0x73A120
+Audinite				0x73A160
+Diancite				0x73A1A0
+Occa Berry				0x73A1E0
+Passho Berry				0x73A230
+Wacan Berry				0x73A280
+Rindo Berry				0x73A2D0
+Yache Berry				0x73A320
+Chople Berry				0x73A360
+Kebia Berry				0x73A3A0
+Shuca Berry				0x73A3E0
+Coba Berry				0x73A420
+Payapa Berry				0x73A460
+Tanga Berry				0x73A4A0
+Charti Berry				0x73A4E0
+Kasib Berry				0x73A520
+Haban Berry				0x73A560
+Colbur Berry				0x73A5A0
+Babiri Berry				0x73A5E0
+Roseli Berry				0x73A620
+Chilan Berry				0x73A660
+Skull Fossil				0x73A6A0
+Armor Fossil				0x73A700
+Cover Fossil				0x73A770
+Plume Fossil				0x73A7E0
+Jaw Fossil				0x73A850
+Sail Fossil				0x73A8D0
+
+----------------
+Sprites:
+----------------
+Big Nugget				0x73A950, 0x73AA0C
+Mega Ring				0x73AA30, 0x73AAA4
+Wide Lens				0x73AAD0, 0x73AB8C
+Weakness Policy				0x73ABC0, 0x73AC6C
+Flame Orb				0x73ACA0, 0x73AD38
+Toxic Orb				0x73AD60, 0x73AE04
+Power Weight				0x73AE30, 0x73AF1C
+Power Bracer				0x73AF40, 0x73B034
+Power Belt				0x73B060, 0x73B154
+Power Anklet				0x73B180, 0x73B274
+Power Lens				0x73B2A0, 0x73B39C
+Power Band				0x73B3D0, 0x73B4C4
+Shiny Stone				0x73B4F0, 0x73B5C0
+Dusk Stone				0x73B5F0, 0x73B6AC
+Dawn Stone				0x73B6D0, 0x73B794
+Ice Stone				0x73B7C0, 0x73B8AC
+Link Cable				0x73B8E0, 0x73B964
+Oval Stone				0x73B980, 0x73BA30
+Protector				0x73BA60, 0x73BB2C
+Electirizer				0x73BB50, 0x73BC0C
+Magmarizer				0x73BC30, 0x73BCF4
+Dubious Disc				0x73BD20, 0x73BDDC
+Reaper Cloth				0x73BE10, 0x73BEF8
+Razor Claw				0x73BF20, 0x73BFC8
+Razor Fang				0x73BFF0, 0x73C08C
+Prism Scale				0x73C0B0, 0x73C12C
+Whipped Dream				0x73C150, 0x73C220
+Sachet					0x73C250, 0x73C304
+Venusaurite				0x73C330, 0x73C3B4
+Charizardite X				0x73C3E0, 0x73C468
+Charizardite Y				0x73C4A0, 0x73C528
+Blastoisinite				0x73C560, 0x73C5E8
+Alakazite				0x73C620, 0x73C6A4
+Gengarite				0x73C6D0, 0x73C754
+Kangaskhanite				0x73C780, 0x73C804
+Pinsirite				0x73C830, 0x73C8B4
+Gyaradosite				0x73C8E0, 0x73C968
+Aerodactlite				0x73C9A0, 0x73CA24
+Mewtwonite X				0x73CA50, 0x73CAD4
+Mewtwonite Y				0x73CB00, 0x73CB88
+Ampharosite				0x73CBC0, 0x73CC48
+Scizorite				0x73CC80, 0x73CD0C
+Heracronite				0x73CD40, 0x73CDC4
+Houndoomnite				0x73CDF0, 0x73CE74
+Tyranitarite				0x73CEA0, 0x73CF24
+Blazikenite				0x73CF50, 0x73CFD8
+Gardevoirite				0x73D010, 0x73D098
+Mawilite				0x73D0D0, 0x73D150
+Aggronite				0x73D180, 0x73D20C
+Medichamite				0x73D240, 0x73D2BC
+Manectite				0x73D2F0, 0x73D374
+Banettite				0x73D3A0, 0x73D420
+Absolite				0x73D450, 0x73D4DC
+Garchompite				0x73D510, 0x73D594
+Lucarionite				0x73D5C0, 0x73D64C
+Abomasite				0x73D680, 0x73D70C
+Beedrillite				0x73D740, 0x73D7C0
+Pidgeotite				0x73D7F0, 0x73D870
+Slowbronite				0x73D8A0, 0x73D920
+Steelixite				0x73D950, 0x73D9D0
+Sceptilite				0x73DA00, 0x73DA80
+Swampertite				0x73DAB0, 0x73DB30
+Sablenite				0x73DB60, 0x73DBE0
+Sharpedonite				0x73DC10, 0x73DC90
+Cameruptite				0x73DCC0, 0x73DD40
+Altarianite				0x73DD70, 0x73DDF0
+Glalite					0x73DE20, 0x73DEA0
+Salamencite				0x73DED0, 0x73DF50
+Metagrossite				0x73DF80, 0x73E000
+Latiasite				0x73E030, 0x73E0B0
+Latiosite				0x73E0E0, 0x73E160
+Lopunnite				0x73E190, 0x73E210
+Galladite				0x73E240, 0x73E2C0
+Audinite				0x73E2F0, 0x73E370
+Diancite				0x73E3A0, 0x73E420
+Red Orb					0x73E450, 0x73E530
+Blue Orb				0x73E560, 0x73E628
+Occa Berry				0x73E660, 0x73E710
+Passho Berry				0x73E740, 0x73E808
+Wacan Berry				0x73E830, 0x73E8F0
+Rindo Berry				0x73E920, 0x73E9C8
+Yache Berry				0x73E9F0, 0x73EAC4
+Chople Berry				0x73EAF0, 0x73EBCC
+Kebia Berry				0x73EBF0, 0x73ECC0
+Shuca Berry				0x73ECF0, 0x73EDB0
+Coba Berry				0x73EDE0, 0x73EEAC
+Payapa Berry				0x73EED0, 0x73EF9C
+Tanga Berry				0x73EFD0, 0x73F0B0
+Charti Berry				0x73F0E0, 0x73F190
+Kasib Berry				0x73F1B0, 0x73F298
+Haban Berry				0x73F2C0, 0x73F398
+Colbur Berry				0x73F3C0, 0x73F48C
+Babiri Berry				0x73F4B0, 0x73F57C
+Roseli Berry				0x73F5A0, 0x73F67C
+Chilan Berry				0x73F6A0, 0x73F768
+Skull Fossil				0x73F790, 0x73F89C
+Armor Fossil				0x73F8D0, 0x73F9E4
+Cover Fossil				0x73FA10, 0x73FAF4
+Plume Fossil				0x73FB20, 0x73FBEC
+Jaw Fossil				0x73FC10, 0x73FD14
+Sail Fossil				0x73FD40, 0x73FE34
