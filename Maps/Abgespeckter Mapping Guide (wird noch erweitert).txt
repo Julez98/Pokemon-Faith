@@ -1,0 +1,20 @@
+In dem Mapsordner kommen die fertigen Städte, Route, Gebäude, Arenen, etc. rein.
+
+Wenn ihr selbst Maps erstellen möchtet, hier eine Anleitung:
+
+1. Advance Map 1.92 / Advance Map 1.95 runterladen
+
+2. Unsere Rom öffnen
+
+3. Eine beliebige Map auswählen
+
+4. Umdesignen wie ihr sie wollt (Link zu einem ausführlichen Guide kommt noch)
+
+5. Geh-Daten einstellen, dabei braucht ihr für den Anfang nur die drei:
+C = begehbar
+0 = nicht begehbar (wird noch überprüft)
+4 = Nur mit Surfer begehbar
+
+6. Map speichern
+
+7. Map-Datei hier auf Github mit passendem Namen hochladen

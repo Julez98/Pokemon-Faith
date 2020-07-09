@@ -1,0 +1,10 @@
+Ein paar Midis aus der alten Version.
+
+Ich habe die Seiten / Personen, woher ich die Midi genommen habe, als Credit markiert.
+
+Was ich gemacht habe, waren minimale Anpassung, was sich leider auch bemerkbar ingame macht, da einige dieser Midis definitiv ne bessere Qualität haben können.
+
+Bei Interesse kann ich euch sagen, wie ihr selbst die Midi-Dateien überarbeiten könnt und in die ROM kompiliert (ist auch nicht wirklich schwer).
+
+Wenn ihr Musik habt, die ins Spiel rein soll, sucht nach einer Midi-Datei der Melodie und ladet sie in diesen Ordner hoch.
+WICHTIG: Wenn ihr das macht, Credits angeben!
