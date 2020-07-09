@@ -1,0 +1,16 @@
+Guide für Trainersprites:
+
+Was ihr braucht:
+- Idee vom Sprite
+- Paint
+
+1. Paint öffnen und die Größe des Bildes auf 64x64 Pixel(!) reduzieren
+
+2. Sprite pixeln
+
+3. Hintergrundfarbe auswählen
+
+
+WICHTIG: Beim Erstellen des Sprites müsst ihr darauf achten, MAXIMAL 16 Farbtöne zu benutzen, wovon 1 für den Hintergrund gedacht ist!
+
+Wenn ihr fertig seid, ladet den Sprite mit dem passenden Namen auf das Github hoch.
